@@ -1,6 +1,6 @@
 {<img src="https://codeclimate.com/github/noahd1/oink.png" />}[https://codeclimate.com/github/noahd1/oink]
 
-=== Oink
+=== Oink Oink
 
 * http://github.com/noahd1/oink
 
